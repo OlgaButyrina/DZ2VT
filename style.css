@@ -1,0 +1,26 @@
+@font-face {
+    font-family: caviar;
+    src: url(fonts/caviar-dreams-bold.ttf);
+}
+
+h1 {
+    color: rgb(0, 153, 255);
+    font-family: caviar;
+    margin-left: 600px;
+}
+
+a {
+    color: rgb(5, 1, 72);
+}
+
+a:hover {
+    color: rgb(43, 226, 70);
+}
+
+body {
+    background-color: rgba(0, 115, 255, 0.42);
+}
+
+img {
+    width: 700px;
+}
